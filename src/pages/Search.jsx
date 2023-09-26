@@ -4,4 +4,4 @@ const Search = () => {
     )
 }
 
-export default Seach
+export default Search
